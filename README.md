@@ -7,7 +7,7 @@ This project focuses on forecasting GDP and other macroeconomic parameters using
 - [Description](#description)
 - [Dependencies](#dependencies)
 - [Results](#results)
-- [Contact](#contact)
+
 
 ## Description
 
@@ -40,6 +40,10 @@ This project relies on the following dependencies:
 - statsmodels
 - sklearn
 - scipy
+
+## Results
+
+![image](https://github.com/jashshah-dev/Time-Series-Forecasting-of-Macro-Economic-Paramaters/assets/132673402/6a5a1f16-9cde-440b-b58a-78c74e2810a4)
 
 
 
