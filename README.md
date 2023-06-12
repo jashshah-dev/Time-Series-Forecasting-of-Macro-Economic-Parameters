@@ -5,11 +5,8 @@ This project focuses on forecasting GDP and other macroeconomic parameters using
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Results](#results)
 - [Contact](#contact)
 
 ## Description
@@ -32,6 +29,18 @@ The project aims to forecast macroeconomic variables, such as GDP, by utilizing 
 
 8. **Residual Analysis**: Examine the residuals of the selected model to ensure they exhibit white noise properties. Plot the residuals and perform tests like the Durbin-Watson statistic to check the quality of the fit.
 
-## Installation
+## Dependencies
 
-1. Clone the repository to your local machine:
+This project relies on the following dependencies:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+- sklearn
+- scipy
+
+
+
+
